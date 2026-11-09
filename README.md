@@ -51,6 +51,19 @@ I'm a **Backend Developer at [Zenvia](https://www.zenvia.com/)**, building APIs 
       <p><a href="https://github.com/recioes/ihaircare.backend.app">View repository →</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 <a href="https://recio.trd.br">Jéssica Recio · Sworn Translation</a></h3>
+      <p>Trilingual website with its own visual identity for a sworn public translator, built by <b>orchestrating AI agents with OmO</b>: Claude (Opus, Sonnet), GPT (Astra, Sol) and DeepSeek (V4 Flash, V4 Pro), each model in the role where it performs best. Written brief and art direction, routing by cost, and tests plus a manual production deploy as the final gate.</p>
+      <p>
+        <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white">
+        <img alt="AI Orchestration" src="https://img.shields.io/badge/AI_Orchestration-7C3AED?style=flat-square&logo=openai&logoColor=white">
+      </p>
+      <p><a href="https://recio.trd.br">Live site →</a></p>
+    </td>
+  </tr>
 </table>
 
 ## 📫 Let's connect
