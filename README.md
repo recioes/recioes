@@ -30,7 +30,7 @@ I'm a **Backend Developer at [Zenvia](https://www.zenvia.com/)**, building APIs 
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/recioes/Esther_Recio">Personal page</a></h3>
-      <p>My links page, rebuilt with <b>Astro</b> and an interactive <b>3D globe</b> in Three.js. Bilingual (PT/EN), strict Content-Security-Policy, unit tests, and CI/CD with CodeQL and automatic deploy to GitHub Pages.</p>
+      <p>My links page, rebuilt with <b>Astro</b>, an interactive <b>3D globe</b> in Three.js and <b>GSAP</b> motion. Trilingual (PT/EN/ES), strict Content-Security-Policy, unit tests, and CI/CD with CodeQL and automatic deploy to GitHub Pages.</p>
       <p>
         <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white">
         <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
